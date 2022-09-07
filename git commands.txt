@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m " a msg about what i did"
+git push
